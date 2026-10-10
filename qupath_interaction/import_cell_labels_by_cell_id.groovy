@@ -3,7 +3,7 @@ import qupath.lib.objects.PathObjects
 import qupath.lib.objects.classes.PathClass
 
 // Path to the CSV file
-def path = "C:/Users/wxia5049/Desktop/Test csv/04972_leiden.csv" // Update this to the path of your CSV\
+def path = "C:/Users/wxia5049/Desktop/Test csv/XXX.csv" // Update this to the path of your CSV\
 
 // Color separator
 def delim = ","
